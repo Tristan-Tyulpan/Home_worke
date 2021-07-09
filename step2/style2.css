@@ -1,0 +1,31 @@
+
+.cards{
+    background-color: rgb(229, 255, 0);
+    min-height:400px;
+    display: flex;
+    justify-content: space-between;
+    }
+    
+    .card1{
+        background-color: rgb(0, 255, 98);
+        min-height:400px;
+        width:30%;
+    }
+    
+    .card2{
+        background-color:rgb(255, 196, 0);
+        min-height:400px;
+        width:30%;
+    }
+    
+    .card3{
+        background-color:rgb(255, 0, 212);
+        min-height:400px;
+        width:30%;
+    }
+
+    .card4{
+        background-color:rgb(255, 0, 0);
+        min-height:400px;
+        width:30%;
+    }
