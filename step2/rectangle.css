@@ -1,0 +1,25 @@
+.rect-parent{
+    min-height:70px;
+    background-color:royalblue;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.rect-child-1{
+    min-height:30px;
+    background-color: salmon;
+    width:30%;
+}
+
+/* .rect-child-2{
+    min-height:30px;
+    background-color: rgb(255, 251, 0);
+    width:30%;
+}
+
+.rect-child-3{
+    min-height:30px;
+    background-color: rgb(255, 0, 0);
+    width:30%;
+
+} */
