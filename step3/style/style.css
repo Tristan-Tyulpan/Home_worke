@@ -100,7 +100,7 @@ justify-content: space-between;
 
 
 .card1{
-    background-image: url(card45.png);
+    background-image: url(./images/card45.png);
     background-size: cover;
     background-position: bottom ;
     min-height:250px;
